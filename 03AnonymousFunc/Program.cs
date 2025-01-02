@@ -11,6 +11,10 @@
             obj(a);
         }
 
+        public static int Add(int a , int b)
+        {
+            return a + b;
+        }
 
         static void Main(string[] args)
         {
@@ -22,7 +26,7 @@
 
             //obj(5);
 
-
+            Add(1,2);
             myfun(delegate (int a) { a += 10; Console.WriteLine(a);},5);
         }
     }

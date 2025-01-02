@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03AnonymousFunc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+074528114fae6360f4408fc82d4352e890109413")]
 [assembly: System.Reflection.AssemblyProductAttribute("03AnonymousFunc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03AnonymousFunc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
