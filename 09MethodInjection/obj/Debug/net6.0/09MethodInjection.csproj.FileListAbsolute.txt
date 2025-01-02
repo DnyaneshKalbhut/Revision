@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\09MethodInjection\bin\Debug\net6.0\09MethodInjection.exe
+D:\DotNet\Soln_1\09MethodInjection\bin\Debug\net6.0\09MethodInjection.deps.json
+D:\DotNet\Soln_1\09MethodInjection\bin\Debug\net6.0\09MethodInjection.runtimeconfig.json
+D:\DotNet\Soln_1\09MethodInjection\bin\Debug\net6.0\09MethodInjection.dll
+D:\DotNet\Soln_1\09MethodInjection\bin\Debug\net6.0\09MethodInjection.pdb
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.AssemblyInfo.cs
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.dll
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\refint\09MethodInjection.dll
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.pdb
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\09MethodInjection.genruntimeconfig.cache
+D:\DotNet\Soln_1\09MethodInjection\obj\Debug\net6.0\ref\09MethodInjection.dll

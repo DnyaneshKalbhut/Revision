@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\06TightCoupling\bin\Debug\net6.0\06TightCoupling.exe
+D:\DotNet\Soln_1\06TightCoupling\bin\Debug\net6.0\06TightCoupling.deps.json
+D:\DotNet\Soln_1\06TightCoupling\bin\Debug\net6.0\06TightCoupling.runtimeconfig.json
+D:\DotNet\Soln_1\06TightCoupling\bin\Debug\net6.0\06TightCoupling.dll
+D:\DotNet\Soln_1\06TightCoupling\bin\Debug\net6.0\06TightCoupling.pdb
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.AssemblyInfo.cs
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.dll
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\refint\06TightCoupling.dll
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.pdb
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\06TightCoupling.genruntimeconfig.cache
+D:\DotNet\Soln_1\06TightCoupling\obj\Debug\net6.0\ref\06TightCoupling.dll

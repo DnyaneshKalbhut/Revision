@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\04LambdaExpression\bin\Debug\net6.0\04LambdaExpression.exe
+D:\DotNet\Soln_1\04LambdaExpression\bin\Debug\net6.0\04LambdaExpression.deps.json
+D:\DotNet\Soln_1\04LambdaExpression\bin\Debug\net6.0\04LambdaExpression.runtimeconfig.json
+D:\DotNet\Soln_1\04LambdaExpression\bin\Debug\net6.0\04LambdaExpression.dll
+D:\DotNet\Soln_1\04LambdaExpression\bin\Debug\net6.0\04LambdaExpression.pdb
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.AssemblyInfo.cs
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.dll
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\refint\04LambdaExpression.dll
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.pdb
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\04LambdaExpression.genruntimeconfig.cache
+D:\DotNet\Soln_1\04LambdaExpression\obj\Debug\net6.0\ref\04LambdaExpression.dll

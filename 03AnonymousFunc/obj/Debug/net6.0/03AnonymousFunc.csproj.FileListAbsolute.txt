@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.AssemblyInfo.cs
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\03AnonymousFunc\bin\Debug\net6.0\03AnonymousFunc.exe
+D:\DotNet\Soln_1\03AnonymousFunc\bin\Debug\net6.0\03AnonymousFunc.deps.json
+D:\DotNet\Soln_1\03AnonymousFunc\bin\Debug\net6.0\03AnonymousFunc.runtimeconfig.json
+D:\DotNet\Soln_1\03AnonymousFunc\bin\Debug\net6.0\03AnonymousFunc.dll
+D:\DotNet\Soln_1\03AnonymousFunc\bin\Debug\net6.0\03AnonymousFunc.pdb
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.dll
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\refint\03AnonymousFunc.dll
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.pdb
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\03AnonymousFunc.genruntimeconfig.cache
+D:\DotNet\Soln_1\03AnonymousFunc\obj\Debug\net6.0\ref\03AnonymousFunc.dll

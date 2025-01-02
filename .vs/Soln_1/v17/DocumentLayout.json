@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Soln_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|d:\\dotnet\\soln_1\\03entityframework\\dal\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|solutionrelative:03entityframework\\dal\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|d:\\dotnet\\soln_1\\03entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|solutionrelative:03entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|d:\\dotnet\\soln_1\\03entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|solutionrelative:03entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\02codefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\02codefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3844D-897A-45EE-B41C-BF0232B1D36A}|02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj|d:\\dotnet\\soln_1\\02disconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3844D-897A-45EE-B41C-BF0232B1D36A}|02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj|solutionrelative:02disconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3844D-897A-45EE-B41C-BF0232B1D36A}|02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj|d:\\dotnet\\soln_1\\02disconnectedarchitecture\\02disconnectedarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0F3844D-897A-45EE-B41C-BF0232B1D36A}|02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj|solutionrelative:02disconnectedarchitecture\\02disconnectedarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|d:\\dotnet\\soln_1\\01connectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|solutionrelative:01connectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|d:\\dotnet\\soln_1\\01connectedarchitecture\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|solutionrelative:01connectedarchitecture\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|d:\\dotnet\\soln_1\\01connectedarchitecture\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|solutionrelative:01connectedarchitecture\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|d:\\dotnet\\soln_1\\01connectedarchitecture\\01connectedarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E48095C-4A77-4B7A-BE2E-C4EAFE00C9A0}|01ConnectedArchitecture\\01ConnectedArchitecture.csproj|solutionrelative:01connectedarchitecture\\01connectedarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|d:\\dotnet\\soln_1\\03entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|solutionrelative:03entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|d:\\dotnet\\soln_1\\03entityframework\\03entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56532702-3FE5-4FA5-A898-A4F3F3C8932E}|03EntityFramework\\03EntityFramework.csproj|solutionrelative:03entityframework\\03entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|d:\\dotnet\\soln_1\\02codefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|solutionrelative:02codefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|d:\\dotnet\\soln_1\\02codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|solutionrelative:02codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|d:\\dotnet\\soln_1\\02codefirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|solutionrelative:02codefirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|d:\\dotnet\\soln_1\\02codefirstapp\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|solutionrelative:02codefirstapp\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|d:\\dotnet\\soln_1\\02codefirstapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F49A6D-F6E6-4EC0-B584-C34D5569557D}|02CodeFirstApp\\02CodeFirstApp.csproj|solutionrelative:02codefirstapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|d:\\dotnet\\soln_1\\02codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93C1C8B3-0C9B-4D76-B17C-77E896C98B03}|02CodeFirstApproach\\02CodeFirstApproach.csproj|solutionrelative:02codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|d:\\dotnet\\soln_1\\01crudoperation\\01databasefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|solutionrelative:01crudoperation\\01databasefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|d:\\dotnet\\soln_1\\01crudoperation\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|solutionrelative:01crudoperation\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|d:\\dotnet\\soln_1\\01crudoperation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686A338-4C8A-43B0-B48B-AFF33B8E2762}|01CRUDOperation\\01DatabaseFirstApproach.csproj|solutionrelative:01crudoperation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94461BFE-643C-4BF8-8873-64320AF3D632}|03DisconnectedArchi\\03DisconnectedArchi.csproj|d:\\dotnet\\soln_1\\03disconnectedarchi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94461BFE-643C-4BF8-8873-64320AF3D632}|03DisconnectedArchi\\03DisconnectedArchi.csproj|solutionrelative:03disconnectedarchi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94461BFE-643C-4BF8-8873-64320AF3D632}|03DisconnectedArchi\\03DisconnectedArchi.csproj|d:\\dotnet\\soln_1\\03disconnectedarchi\\03disconnectedarchi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94461BFE-643C-4BF8-8873-64320AF3D632}|03DisconnectedArchi\\03DisconnectedArchi.csproj|solutionrelative:03disconnectedarchi\\03disconnectedarchi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "02CodeFirstApproach",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\02CodeFirstApproach.csproj",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\02CodeFirstApproach.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\02CodeFirstApproach.csproj",
+              "RelativeToolTip": "02CodeFirstApproach\\02CodeFirstApproach.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T04:28:16.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\Models\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Models\\Employee.cs",
+              "RelativeToolTip": "02CodeFirstApproach\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:29:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\Models\\EmpDbContext.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "02CodeFirstApproach\\Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:29:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "02CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:31:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "02CodeFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:21:47.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03EntityFramework\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "03EntityFramework\\Model\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03EntityFramework\\Model\\Employee.cs",
+              "RelativeToolTip": "03EntityFramework\\Model\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:00:45.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03EntityFramework\\DAL\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "03EntityFramework\\DAL\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03EntityFramework\\DAL\\EmployeeDbContext.cs",
+              "RelativeToolTip": "03EntityFramework\\DAL\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:00:59.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "03EntityFramework\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03EntityFramework\\Program.cs",
+              "RelativeToolTip": "03EntityFramework\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:00:50.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02DisconnectedArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "02DisconnectedArchitecture\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02DisconnectedArchitecture\\Program.cs",
+              "RelativeToolTip": "02DisconnectedArchitecture\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:22:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02DisconnectedArchitecture",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj",
+              "RelativeDocumentMoniker": "02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj",
+              "RelativeToolTip": "02DisconnectedArchitecture\\02DisconnectedArchitecture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T04:21:58.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "01ConnectedArchitecture\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\Program.cs",
+              "RelativeToolTip": "01ConnectedArchitecture\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:20:49.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\DAL\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "01ConnectedArchitecture\\DAL\\IETDbContext.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\DAL\\IETDbContext.cs",
+              "RelativeToolTip": "01ConnectedArchitecture\\DAL\\IETDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:20:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\Model\\Emp.cs",
+              "RelativeDocumentMoniker": "01ConnectedArchitecture\\Model\\Emp.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\Model\\Emp.cs",
+              "RelativeToolTip": "01ConnectedArchitecture\\Model\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:20:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "01ConnectedArchitecture",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\01ConnectedArchitecture.csproj",
+              "RelativeDocumentMoniker": "01ConnectedArchitecture\\01ConnectedArchitecture.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01ConnectedArchitecture\\01ConnectedArchitecture.csproj",
+              "RelativeToolTip": "01ConnectedArchitecture\\01ConnectedArchitecture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T04:20:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03EntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "03EntityFramework\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03EntityFramework\\appsettings.json",
+              "RelativeToolTip": "03EntityFramework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T04:03:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "03EntityFramework",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03EntityFramework\\03EntityFramework.csproj",
+              "RelativeDocumentMoniker": "03EntityFramework\\03EntityFramework.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03EntityFramework\\03EntityFramework.csproj",
+              "RelativeToolTip": "03EntityFramework\\03EntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T04:00:40.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "02CodeFirstApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:55:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "02CodeFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T03:54:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "02CodeFirstApp\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\appsettings.json",
+              "RelativeToolTip": "02CodeFirstApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T03:53:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Models\\Employee.cs",
+              "RelativeToolTip": "02CodeFirstApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:45:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApp\\Models\\EmpDbContext.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "02CodeFirstApp\\Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:44:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "02CodeFirstApp\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApp\\Program.cs",
+              "RelativeToolTip": "02CodeFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:33:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "02CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Soln_1\\02CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "02CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T03:46:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "01DatabaseFirstApproach",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01CRUDOperation\\01DatabaseFirstApproach.csproj",
+              "RelativeDocumentMoniker": "01CRUDOperation\\01DatabaseFirstApproach.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01CRUDOperation\\01DatabaseFirstApproach.csproj",
+              "RelativeToolTip": "01CRUDOperation\\01DatabaseFirstApproach.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T03:32:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01CRUDOperation\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "01CRUDOperation\\Controllers\\EmpsController.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01CRUDOperation\\Controllers\\EmpsController.cs",
+              "RelativeToolTip": "01CRUDOperation\\Controllers\\EmpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:32:51.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\01CRUDOperation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01CRUDOperation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\01CRUDOperation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01CRUDOperation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:32:48.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03DisconnectedArchi\\Program.cs",
+              "RelativeDocumentMoniker": "03DisconnectedArchi\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03DisconnectedArchi\\Program.cs",
+              "RelativeToolTip": "03DisconnectedArchi\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:27:21.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "03DisconnectedArchi",
+              "DocumentMoniker": "D:\\DotNet\\Soln_1\\03DisconnectedArchi\\03DisconnectedArchi.csproj",
+              "RelativeDocumentMoniker": "03DisconnectedArchi\\03DisconnectedArchi.csproj",
+              "ToolTip": "D:\\DotNet\\Soln_1\\03DisconnectedArchi\\03DisconnectedArchi.csproj",
+              "RelativeToolTip": "03DisconnectedArchi\\03DisconnectedArchi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T03:27:19.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

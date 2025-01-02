@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\Delegates\bin\Debug\net6.0\01Delegates.exe
+D:\DotNet\Soln_1\Delegates\bin\Debug\net6.0\01Delegates.deps.json
+D:\DotNet\Soln_1\Delegates\bin\Debug\net6.0\01Delegates.runtimeconfig.json
+D:\DotNet\Soln_1\Delegates\bin\Debug\net6.0\01Delegates.dll
+D:\DotNet\Soln_1\Delegates\bin\Debug\net6.0\01Delegates.pdb
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.AssemblyInfo.cs
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.dll
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\refint\01Delegates.dll
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.pdb
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\01Delegates.genruntimeconfig.cache
+D:\DotNet\Soln_1\Delegates\obj\Debug\net6.0\ref\01Delegates.dll

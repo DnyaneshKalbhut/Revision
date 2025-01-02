@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\07ConstructorInjection\bin\Debug\net6.0\07ConstructorInjection.exe
+D:\DotNet\Soln_1\07ConstructorInjection\bin\Debug\net6.0\07ConstructorInjection.deps.json
+D:\DotNet\Soln_1\07ConstructorInjection\bin\Debug\net6.0\07ConstructorInjection.runtimeconfig.json
+D:\DotNet\Soln_1\07ConstructorInjection\bin\Debug\net6.0\07ConstructorInjection.dll
+D:\DotNet\Soln_1\07ConstructorInjection\bin\Debug\net6.0\07ConstructorInjection.pdb
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.AssemblyInfo.cs
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.dll
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\refint\07ConstructorInjection.dll
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.pdb
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\07ConstructorInjection.genruntimeconfig.cache
+D:\DotNet\Soln_1\07ConstructorInjection\obj\Debug\net6.0\ref\07ConstructorInjection.dll

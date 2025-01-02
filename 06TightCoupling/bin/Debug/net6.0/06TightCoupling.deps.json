@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "06TightCoupling/1.0.0": {
+        "runtime": {
+          "06TightCoupling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06TightCoupling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

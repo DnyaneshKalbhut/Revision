@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\05MultipleInterFace\bin\Debug\net6.0\05MultipleInterFace.exe
+D:\DotNet\Soln_1\05MultipleInterFace\bin\Debug\net6.0\05MultipleInterFace.deps.json
+D:\DotNet\Soln_1\05MultipleInterFace\bin\Debug\net6.0\05MultipleInterFace.runtimeconfig.json
+D:\DotNet\Soln_1\05MultipleInterFace\bin\Debug\net6.0\05MultipleInterFace.dll
+D:\DotNet\Soln_1\05MultipleInterFace\bin\Debug\net6.0\05MultipleInterFace.pdb
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.AssemblyInfo.cs
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.dll
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\refint\05MultipleInterFace.dll
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.pdb
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\05MultipleInterFace.genruntimeconfig.cache
+D:\DotNet\Soln_1\05MultipleInterFace\obj\Debug\net6.0\ref\05MultipleInterFace.dll

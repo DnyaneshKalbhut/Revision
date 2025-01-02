@@ -1,0 +1,14 @@
+D:\DotNet\Soln_1\02Events\bin\Debug\net6.0\02Events.exe
+D:\DotNet\Soln_1\02Events\bin\Debug\net6.0\02Events.deps.json
+D:\DotNet\Soln_1\02Events\bin\Debug\net6.0\02Events.runtimeconfig.json
+D:\DotNet\Soln_1\02Events\bin\Debug\net6.0\02Events.dll
+D:\DotNet\Soln_1\02Events\bin\Debug\net6.0\02Events.pdb
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.AssemblyInfoInputs.cache
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.AssemblyInfo.cs
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.csproj.CoreCompileInputs.cache
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.dll
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\refint\02Events.dll
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.pdb
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\02Events.genruntimeconfig.cache
+D:\DotNet\Soln_1\02Events\obj\Debug\net6.0\ref\02Events.dll
